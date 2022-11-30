@@ -1,5 +1,5 @@
 import React from "react"
-
+// customising badge text based on location and openspots
 export default function Card(props) {
     let badgeText
     if (props.openSpots === 0) {
@@ -7,7 +7,7 @@ export default function Card(props) {
     } else if (props.location === "Online") {
         badgeText = "ONLINE"
     }
-    
+    //creating the card component to be reused
     return (
         <div className="card">
             {

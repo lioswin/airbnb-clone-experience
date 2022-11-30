@@ -1,5 +1,5 @@
 import React from "react"
-
+//hero component with text and simple description ,included with a background image
 export default function Hero() {
     return (
         <section className="hero">

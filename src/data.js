@@ -40,7 +40,7 @@ export default [
     },
     {
         id: 4,
-        title: "Tony Rite",
+        title: "Learn Front-end dev",
         description: "Front end dev",
         price:500,
         coverImg:"ega.jpeg",
@@ -48,7 +48,7 @@ export default [
             rating: 4.8,
             reviewCount: 2
         },
-        location: "Norway",
-        openSpots: 3,
+        location: "Online",
+        openSpots: 1,
     }
 ]
