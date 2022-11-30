@@ -37,5 +37,18 @@ export default [
         },
         location: "Norway",
         openSpots: 3,
+    },
+    {
+        id: 4,
+        title: "Tony Rite",
+        description: "Front end dev",
+        price:500,
+        coverImg:"ega.jpeg",
+        stats: {
+            rating: 4.8,
+            reviewCount: 2
+        },
+        location: "Norway",
+        openSpots: 3,
     }
 ]
